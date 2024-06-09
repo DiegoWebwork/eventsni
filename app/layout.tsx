@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Evently',
+  title: 'Eventsni',
   description: 'Eventsni é uma plataforma para gerenciamento de eventos.',
   icons: {
     icon: '/assets/images/logo.svg'
