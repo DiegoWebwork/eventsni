@@ -18,3 +18,5 @@ export const connectToDatabase = async () => {
 
   return cached.conn;
 }
+
+//em aplicações serveless é melhor usar esse pattern para lidar de forma eficiente com as requisições
