@@ -4,7 +4,7 @@ import Link from "next/link"
 import { Button } from "../ui/button"
 import NavItems from "./NavItems"
 import MobileNav from "./MobileNav"
-
+//resolvendo o nav
 const Header = () => {
   return (
     <header className="w-full border-b">
