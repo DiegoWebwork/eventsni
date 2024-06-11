@@ -40,5 +40,5 @@ const Header = () => {
     </header>
   )
 }
-
+//resolvendo o nav
 export default Header
