@@ -1,5 +1,6 @@
 import Footer from "@/components/shared/Footer";
 import Header from "@/components/shared/Header";
+import NavItems from "@/components/shared/NavItems";
 
 
 export default function RootLayout({
