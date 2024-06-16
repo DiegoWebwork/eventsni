@@ -4,6 +4,19 @@
 # Aluno: Diego Rios dos Santos (202010774)
 # Disciplina: Laboratório de Programação de Aplicativos Hibridos 8º Periodo
 # Professor: Fabricio Dias
+
+## <a name="tech-stack">⚙️ recnologias usadas</a>
+
+- Node.js
+- Next.js
+- TypeScript
+- TailwindCSS
+- Stripe
+- Zod
+- React Hook Form
+- Shadcn
+- uploadthing
+
 ## Rodando
 
 Primeiro rode os comandos:
