@@ -44,7 +44,7 @@ Para aprender mais sobre Next.js, dê uma olhada nos seguintes recursos.
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-baseado em  [the Next.js GitHub repository]([https://github.com/vercel/next.js/](https://github.com/adrianhajdin/event_platform))
+baseado em  [Javascriptmastery](https://github.com/adrianhajdin/event_platform)).
 
 ## Deploy no Vercel
 
