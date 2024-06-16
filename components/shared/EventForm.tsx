@@ -1,4 +1,3 @@
-
 "use client"
 
 import { zodResolver } from "@hookform/resolvers/zod"
@@ -14,7 +13,6 @@ import { Textarea } from "@/components/ui/textarea"
 import { FileUploader } from "./FileUploader"
 import { useState } from "react"
 import Image from "next/image"
-
 import DatePicker from "react-datepicker";
 import { useUploadThing } from '@/lib/uploadthing'
 

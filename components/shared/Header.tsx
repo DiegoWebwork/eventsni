@@ -4,7 +4,7 @@ import Link from "next/link"
 import { Button } from "../ui/button"
 import NavItems from "./NavItems"
 import MobileNav from "./MobileNav"
-//resolvendo o nav
+
 const Header = () => {
   return (
     <header className="w-full border-b">
@@ -12,7 +12,7 @@ const Header = () => {
         <Link href="/" className="w-36">
           <Image 
             src="/assets/images/logo.svg" width={128} height={38}
-            alt="Eventsni logo" 
+            alt="Evently logo" 
           />
         </Link>
 
@@ -39,5 +39,5 @@ const Header = () => {
     </header>
   )
 }
-//resolvendo o nav
+
 export default Header

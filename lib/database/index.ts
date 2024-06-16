@@ -10,7 +10,7 @@ export const connectToDatabase = async () => {
   if(!MONGODB_URI) throw new Error('MONGODB_URI is missing');
 
   cached.promise = cached.promise || mongoose.connect(MONGODB_URI, {
-    dbName: 'eventsni',
+    dbName: 'evently',
     bufferCommands: false,
   })
 
@@ -18,5 +18,3 @@ export const connectToDatabase = async () => {
 
   return cached.conn;
 }
-
-//em aplicações serveless é melhor usar esse pattern para lidar de forma eficiente com as requisições
