@@ -17,7 +17,7 @@ const Orders = async ({ searchParams }: SearchParamProps) => {
       </section>
 
       <section className="wrapper mt-8">
-        <Search placeholder="Search buyer name..." />
+        <Search placeholder="procure o comprador pelo nome..." />
       </section>
 
       <section className="wrapper overflow-x-auto">

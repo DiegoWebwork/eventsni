@@ -12,7 +12,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: 'Evently',
-  description: 'Evently is a platform for event management.',
+  description: 'AgendaPro é uma plataforma para criação eventos.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
