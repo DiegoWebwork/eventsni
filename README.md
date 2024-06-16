@@ -1,4 +1,9 @@
+![alt text](https://github.com/DiegoWebwork/estrutura-de-dados/blob/main/universidade%20de%20vassouras%20Vertical.png)
 
+# Curso: Engenharia de Software
+# Aluno: Diego Rios dos Santos (202010774)
+# Disciplina: Laboratório de Programação de Aplicativos Hibridos 8º Periodo
+# Professor: Fabricio Dias
 ## Rodando
 
 Primeiro rode os comandos:
