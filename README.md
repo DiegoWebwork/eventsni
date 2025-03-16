@@ -51,3 +51,33 @@ baseado em  [Javascriptmastery](https://github.com/adrianhajdin/event_platform).
 Uma das formas mais facieis de fazer o deploy da sua aplicação next.js é em [Vercel Platform](https://github.com/DiegoWebwork/eventsni) dos criadores do Next.js.
 
 veja [Next.js deployment documentation](https://nextjs.org/docs/deployment) para mais detalhes.
+
+# Relatório de Implementação do Sistema de Login com Next.js e Clerk
+
+## Descrição da Funcionalidade Implementada
+Foi implementado um sistema de login utilizando Next.js e a biblioteca Clerk. Este sistema permite que os usuários realizem autenticação segura na aplicação web, incluindo registro, login e gerenciamento de sessões. A integração com Clerk fornece funcionalidades avançadas, como autenticação baseada em tokens, recuperação de senha e suporte a múltiplos métodos de login (e-mail, redes sociais, etc.).
+
+## Como a Engenharia de Software Contínua foi Aplicada
+A Engenharia de Software Contínua foi aplicada seguindo as práticas de integração e entrega contínuas (CI/CD):
+- **Controle de Versão:** Todo o código foi gerenciado por meio do Git, garantindo rastreamento de mudanças e colaboração.
+
+- **Entrega Contínua:** O sistema foi implantado automaticamente na plataforma Vercel sempre que o código era mesclado no branch principal.
+
+## Resultados da Experimentação
+Após a implementação e testes, os seguintes resultados foram observados:
+- **Segurança aprimorada:** O Clerk garantiu a criptografia de dados sensíveis e proteção contra ataques comuns, como força bruta.
+- **Eficiência no desenvolvimento:** A biblioteca reduziu significativamente o tempo necessário para implementar autenticação segura.
+- **Experiência do usuário aprimorada:** O processo de login foi rápido e intuitivo, resultando em maior engajamento dos usuários.
+
+## O que Poderia ser Melhorado
+Embora a implementação tenha sido bem-sucedida, algumas áreas para melhorias foram identificadas:
+- **Customização da Interface:** A interface fornecida pelo Clerk poderia ser melhor personalizada para alinhar-se ao design da aplicação.
+- **Cobertura de Testes:** Aplicar a cobertura de testes automatizados para incluir cenários mais complexos.
+- **Suporte Offline:** Adicionar suporte para que os usuários realizem login mesmo em situações de conectividade limitada.
+
+---
+
+
+
+
+
